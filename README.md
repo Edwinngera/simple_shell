@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * Edwin Rimui 
-* Brennan D Baraban 
+* Stephen Kihuni
 
 ## License :lock:
 
