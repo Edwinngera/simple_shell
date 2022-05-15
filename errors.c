@@ -1,7 +1,7 @@
 /*
  * File: errors.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Stephen Kihuni
+ *       Edwin Ngera
  */
 
 #include "shell.h"
