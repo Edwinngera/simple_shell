@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Alex Yu <[AlexYu01](https://github.com/AlexYu01)>
-* Brennan D Baraban <[bdbaraban](https://github.com/bdbaraban)>
+* Edwin Rimui 
+* Brennan D Baraban 
 
 ## License :lock:
 
